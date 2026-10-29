@@ -1,25 +1,21 @@
-<p align="center"><img src="assets/hero.webp" alt="余影 AFTERIMAGE" width="100%"></p>
+<p align="center"><img src="assets/hero.svg" alt="余影 AFTERIMAGE" width="100%"></p>
 
 <p align="center">查电影与剧集资料，参考多平台评分，记录自己的观影生活。</p>
-<p align="center">Android 8.0+ · 免费 · 无广告 · 无内购</p>
-<p align="center">
-  <a href="https://api.yuyingfilm.top/app"><img src="assets/download-direct.png" alt="下载 Android APK" width="200"></a>
-  &nbsp;
-  <a href="https://github.com/myy152/afterimage-releases/releases/latest"><img src="assets/download-github.png" alt="从 GitHub 下载最新版本" width="200"></a>
-</p>
+<p align="center"><a href="https://api.yuyingfilm.top/app">下载 APK</a> · <a href="https://github.com/myy152/afterimage-releases/releases/latest">GitHub Releases</a></p>
+
+## 评分海报
+
+<p align="center"><img src="assets/posters.svg" alt="电影评分海报与 IMDb 逐集评分海报" width="100%"></p>
 
 ## 应用预览
 
 <p align="center">
-  <a href="assets/preview-ratings.webp"><img src="assets/preview-ratings.webp" alt="多平台评分与分享海报" width="270"></a>
-  <a href="assets/preview-discover.webp"><img src="assets/preview-discover.webp" alt="电影节与影视奖项合集" width="270"></a>
-  <a href="assets/preview-profile.webp"><img src="assets/preview-profile.webp" alt="个人页：想看、看过和个人评分" width="270"></a>
-  <a href="assets/preview-calendar.webp"><img src="assets/preview-calendar.webp" alt="观影日历" width="270"></a>
-  <a href="assets/preview-statistics.webp"><img src="assets/preview-statistics.webp" alt="观影统计" width="270"></a>
-  <a href="assets/preview-yearbook.webp"><img src="assets/preview-yearbook.webp" alt="年度观影年册" width="270"></a>
+  <img src="assets/preview-profile.svg" alt="个人观影记录" width="270">
+  <img src="assets/preview-calendar.svg" alt="观影日历" width="270">
+  <img src="assets/preview-yearbook.svg" alt="年度观影年册" width="270">
+  <img src="assets/preview-discover.svg" alt="电影节与影视奖项合集" width="270">
+  <img src="assets/preview-statistics.svg" alt="观影统计" width="270">
 </p>
-
-点击图片可放大。个人记录为演示数据，平台评分取自实际查询。
 
 ## 功能
 
@@ -52,8 +48,6 @@
 余影由个人独立开发，永久免费、无广告、无内购，**仅供个人学习与研究，禁止用于商业用途**。不提供影视作品的播放、下载或资源链接服务。
 
 第三方内容的权利归相应权利人。使用时请遵守各平台规则；本项目与各平台无官方隶属、合作或背书关系。[完整免责声明](DISCLAIMER.md)。
-
-本仓库只提供应用介绍和 APK 分发。
 
 ### 数据来源
 
