@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/hero.svg" alt="余影 AFTERIMAGE" width="100%"></p>
 
-<p align="center">查电影与剧集资料，参考多平台评分，记录自己的观影生活。</p>
+<p align="center"><strong>AFTERIMAGE（余影）</strong>是一款由电影爱好者独立开发的免费 Android 影视资料与观影记录应用。</p>
 <p align="center"><a href="https://api.yuyingfilm.top/app">下载 APK</a> · <a href="https://github.com/myy152/afterimage-releases/releases/latest">GitHub Releases</a></p>
 
 ## 评分海报
