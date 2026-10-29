@@ -11,18 +11,18 @@
 
 <p align="center">
   <img src="assets/preview-profile.svg" alt="个人观影记录" width="270">
-  <img src="assets/preview-calendar.svg" alt="观影日历" width="270">
+  <img src="assets/preview-records.svg" alt="详情页想看与看过，记录每一次重看" width="270">
   <img src="assets/preview-yearbook.svg" alt="年度观影年册" width="270">
   <img src="assets/preview-discover.svg" alt="电影节与影视奖项合集" width="270">
-  <img src="assets/preview-statistics.svg" alt="观影统计" width="270">
+  <img src="assets/preview-calendar.svg" alt="观影日历" width="270">
 </p>
 
 ## 功能
 
 - **影视资料**：搜索电影、剧集与影人，查看简介、图片、演职员，浏览电影节及获奖合集。
 - **多平台评分**：豆瓣、IMDb、烂番茄、Letterboxd、TMDB、Trakt；支持分季和 IMDb 逐集评分。
-- **个人记录**：想看、看过、半星评分、日期、短评、重看和自定义片单。
-- **观影回顾**：日历、统计、年度年册及分享海报，可保存图片或通过系统分享。
+- **个人记录**：想看、看过、半星评分、日期、短评和自定义片单；每次重看都能单独记录日期、评分与短评。
+- **观影回顾**：日历、年度年册及分享海报，可保存图片或通过系统分享。
 - **本地备份**：观影记录保存在手机，可导出和导入 JSON，无需注册余影账号。
 
 ## 安装与更新
