@@ -59,4 +59,4 @@ TMDB、豆瓣、IMDb、烂番茄、Letterboxd、Trakt。
 
 This product uses the TMDB API but is not endorsed or certified by TMDB.
 
-反馈与权益问题：[13233752913@163.com](mailto:13233752913@163.com)
+反馈与权益问题：[afterimagecontact@163.com](mailto:afterimagecontact@163.com)
